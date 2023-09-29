@@ -6,11 +6,7 @@ A user-friendly QR code generator built using HTML5 and CSS3 for creating QR cod
 
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
